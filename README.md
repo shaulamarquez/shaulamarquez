@@ -15,7 +15,7 @@ As a dedicated and results-driven data analyst, I specialize in turning overwhel
 - ✅ Tableau
       
 
-### 📜 Education & Certifications:
+### 📜 Certifications:
 
 - Google Data Analytics Professional Certificate by Google (Coursera) | [Certification Link](https://www.coursera.org/account/accomplishments/specialization/certificate/NXF3US9SZE56)
 - Tableau Business Intelligence Analyst Professional Certificate by Salesforce (Coursera) | [Certification Link](https://www.coursera.org/account/accomplishments/specialization/certificate/PKJLNH3HBGKU)
