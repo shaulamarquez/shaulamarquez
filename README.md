@@ -4,7 +4,10 @@ Drowning in data but starving for insights? Let me help!
 
 As a dedicated and results-driven data analyst, I specialize in turning overwhelming spreadsheets and databases into clear, actionable insights that propel your business forward. Whether you need to uncover hidden trends, create jaw-dropping dashboards, or streamline reporting processes, I’ve got you covered.
 
-### 📝 Skills:
+
+
+
+## 📝 Skills:
 
 - ✅ SQL (SQL Server, MySQL, PostgreSQL)
 - ✅ Python (Pandas, NumPy, MatPlotLib, Seaborn)
@@ -15,7 +18,8 @@ As a dedicated and results-driven data analyst, I specialize in turning overwhel
 - ✅ Tableau
       
 
-### 📜 Certifications:
+
+## 📜 Certifications:
 
 - Google Data Analytics Professional Certificate by Google (Coursera) | [Certification Link](https://www.coursera.org/account/accomplishments/specialization/certificate/NXF3US9SZE56)
 - Tableau Business Intelligence Analyst Professional Certificate by Salesforce (Coursera) | [Certification Link](https://www.coursera.org/account/accomplishments/specialization/certificate/PKJLNH3HBGKU)
@@ -26,7 +30,13 @@ As a dedicated and results-driven data analyst, I specialize in turning overwhel
 - The Microsoft Excel Data Analysis (Udemy) | [Certification Link](https://www.udemy.com/certificate/UC-0a1b94fb-d747-4c48-bf81-c5e56313bc67/)
 - IBM Machine Learning Professional Certificate |  TBA
 
-### 📧 Let's Stay Connected
+
+
+
+## 📧 Let's Stay Connected
+
+✨Feel free to connect with me on the following platforms:
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/shaulamarquezrn)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/profile/shaula.marquez/vizzes)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](shaulamarquez.github.io)
