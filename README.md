@@ -28,6 +28,7 @@ As a dedicated and results-driven data analyst, I specialize in turning overwhel
 - Microsoft Power BI Data Analyst Professional Certificate by Microsoft (Coursera) | [Certification Link](https://www.coursera.org/account/accomplishments/specialization/certificate/MWGVS4ZA8LPP)
 - IBM Data Science Professional Certificate by IBM (Coursera) | [Certification Link](https://www.coursera.org/account/accomplishments/specialization/certificate/NF5DEU946LKO)
 - The Microsoft Excel Data Analysis (Udemy) | [Certification Link](https://www.udemy.com/certificate/UC-0a1b94fb-d747-4c48-bf81-c5e56313bc67/)
+- Data Analysis Bootcamp Certificate (Udemy) | [Certification Link](https://www.udemy.com/certificate/UC-e5a019c5-b914-4c37-a8c7-926e6dade920/)
 - IBM Machine Learning Professional Certificate |  TBA
 
 
