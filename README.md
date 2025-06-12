@@ -30,6 +30,7 @@ As a dedicated and results-driven data analyst, I specialize in turning overwhel
 - The Microsoft Excel Data Analysis (Udemy) | [Certification Link](https://www.udemy.com/certificate/UC-0a1b94fb-d747-4c48-bf81-c5e56313bc67/)
 - Data Analysis Bootcamp Certificate (Udemy) | [Certification Link](https://www.udemy.com/certificate/UC-e5a019c5-b914-4c37-a8c7-926e6dade920/)
 - IBM Machine Learning Professional Certificate |  TBA
+- Data Literacy Foundations (Maven Analytics) | [Certification Link](https://certificates.mavenanalytics.io/f4a398b4-b795-4160-876c-104d7b16452f#acc.Frq5PzM4)
 
 
 
